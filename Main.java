@@ -44,7 +44,7 @@ public class Main {
                     Ball++;
                 }
             }
-            //3. 볼, 스트라이크를 표현하는 부분 구현하기
+            //3. 볼, 스트라이크를 표현하는 부분 구현하기t
             if (Ball == 3) {
                 System.out.println("3B");
             } else if (Strike == 3) {
